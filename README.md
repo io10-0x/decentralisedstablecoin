@@ -1,4 +1,4 @@
-Decentralised Stablecoin Project: README
+## Decentralised Stablecoin Project: README
 
 ## Overview
 
